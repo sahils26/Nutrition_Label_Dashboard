@@ -1,0 +1,70 @@
+{
+  "exportedAt": "2026-02-09T17:10:07.194Z",
+  "totalPostsWithFeedback": 2,
+  "posts": [
+    {
+      "postId": "DUiFv1vEcUu",
+      "username": "error69",
+      "caption": "When cinema power 🤝 political power collide… history gets a snapshot 📸🔥INFO ℹ️Thalapathy Vijay attended a wedding ceremony at a family function of Y. S. Jagan Mohan Reddy — and the moment instantly stole the spotlight 👀✨EMOTION ❤️‍🔥Different fields. Massive influence. Millions of followers.Seeing two icons sharing one stage hits different 💥Respect 🤝 power 🤝 unity — this frame says it all 👑🦁 Cinema Lion🦁 Political Lion📍 One unforgettable momentCTA 🚨👉 Comment your reaction 💬👉 Share if this moment gave you goosebumps 🔄👉 Follow for such viral updates ⚡#ThalapathyVijay #YSJagan #TwoLions #PowerMeeting #CinemaMeetsPolitics",
+      "llm": {
+        "llmTheme": "event",
+        "llmObjects": [
+          "people"
+        ],
+        "llmSentiment": "positive",
+        "llmContentQuality": "high",
+        "llmContentIntent": "entertainment",
+        "llmImageDescription": "\nThe image features a group of five individuals, likely at a formal event given their attire. From left to right, the first person is wearing a light beige suit with a white shirt, the second person is dressed in a white tuxedo with a black bow tie, the third person is in a white dress with long black hair, the fourth person is wearing a white kurta with light-colored pants, and the fifth person is in a dark suit with a white shirt and a black bow tie. They are standing in front of a floral backdrop with white and pink flowers, suggesting a celebratory event. The individuals appear to be posing for a photograph, with some standing on a stage. The text at the top of the image reads, \"Thalapathy Vijay attended a wedding ceremony at Y.S. Jagan's family function.\" The bottom text humorously states, \"Two lions on one stage 🔥,\" implying a significant event where figures of influence from different domains (cinema and politics) are present together. The overall context suggests a high-profile social gathering that highlights a convergence of entertainment and political figures."
+      },
+      "feedback": {
+        "overall": "positive",
+        "theme": "positive",
+        "objects": "positive",
+        "sentiment": "negative",
+        "contentQuality": "negative",
+        "contentIntent": "positive",
+        "imageDescription": null
+      },
+      "metadata": {
+        "timestamp": 1770655844050,
+        "like_count": 0,
+        "comment_count": 0,
+        "location": null,
+        "mediaType": "Photo",
+        "sessionId": "session_1770655799496_895185829"
+      }
+    },
+    {
+      "postId": "DUdPQyJD0q4",
+      "username": "kabooootarrrrrr",
+      "caption": "Old days🤌🏻",
+      "llm": {
+        "llmTheme": "nostalgia",
+        "llmObjects": [
+          "object_detection"
+        ],
+        "llmSentiment": "positive",
+        "llmContentQuality": "low",
+        "llmContentIntent": "entertainment",
+        "llmImageDescription": "\nThe image depicts a cartoon-style scene set outdoors, possibly in a residential area with houses and trees in the background. Several individuals are gathered around a person riding a bicycle. The person on the bicycle is wearing dark clothing and appears to be speaking, as indicated by the speech bubble in Hindi: \"तेरी माँ का लंड क्या\" (What is your mother's land?).\n\nA group of four individuals is crouched down on the ground near the bicycle. They are also in casual clothing, with two of them wearing hats. One of these individuals is speaking in Hindi, \"तेरी माँ की चूहा\" (What is your mother's mouse?).\n\nThe caption \"Old days🤌🏻\" suggests a nostalgic theme, evoking a sense of simpler times before the internet. The heart emoji further emphasizes this sentiment, indicating fondness for the past. The overall scene and caption together create a humorous and reflective mood, likely intended to evoke memories of interactions and social dynamics from a time when the internet was not a part of daily life."
+      },
+      "feedback": {
+        "overall": "positive",
+        "theme": "positive",
+        "objects": "negative",
+        "sentiment": "positive",
+        "contentQuality": "positive",
+        "contentIntent": "positive",
+        "imageDescription": null
+      },
+      "metadata": {
+        "timestamp": 1770656016816,
+        "like_count": 5189,
+        "comment_count": 35,
+        "location": null,
+        "mediaType": "Photo",
+        "sessionId": "session_1770655799496_895185829"
+      }
+    }
+  ]
+}

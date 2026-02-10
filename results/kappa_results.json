@@ -1,0 +1,96 @@
+{
+  "kappa_type": "Cohen's Kappa",
+  "n_annotators": 2,
+  "n_posts": 2,
+  "category_scores": {
+    "overall": 1.0,
+    "theme": 1.0,
+    "objects": 1.0,
+    "sentiment": 0.0,
+    "contentQuality": 1.0,
+    "contentIntent": 0.0
+  },
+  "overall_kappa": 0.6667,
+  "raw_agreement_scores": {
+    "overall": 1.0,
+    "theme": 1.0,
+    "objects": 1.0,
+    "sentiment": 0.5,
+    "contentQuality": 1.0,
+    "contentIntent": 0.5
+  },
+  "overall_raw_agreement": 0.8333,
+  "confusion_matrices": {
+    "overall": {
+      "matrix": {
+        "positive_positive": 2,
+        "positive_negative": 0,
+        "negative_positive": 0,
+        "negative_negative": 0
+      },
+      "total_items": 2,
+      "annotator_1_positive_rate": 1.0,
+      "annotator_2_positive_rate": 1.0
+    },
+    "theme": {
+      "matrix": {
+        "positive_positive": 2,
+        "positive_negative": 0,
+        "negative_positive": 0,
+        "negative_negative": 0
+      },
+      "total_items": 2,
+      "annotator_1_positive_rate": 1.0,
+      "annotator_2_positive_rate": 1.0
+    },
+    "objects": {
+      "matrix": {
+        "positive_positive": 1,
+        "positive_negative": 0,
+        "negative_positive": 0,
+        "negative_negative": 1
+      },
+      "total_items": 2,
+      "annotator_1_positive_rate": 0.5,
+      "annotator_2_positive_rate": 0.5
+    },
+    "sentiment": {
+      "matrix": {
+        "positive_positive": 1,
+        "positive_negative": 0,
+        "negative_positive": 1,
+        "negative_negative": 0
+      },
+      "total_items": 2,
+      "annotator_1_positive_rate": 0.5,
+      "annotator_2_positive_rate": 1.0
+    },
+    "contentQuality": {
+      "matrix": {
+        "positive_positive": 1,
+        "positive_negative": 0,
+        "negative_positive": 0,
+        "negative_negative": 1
+      },
+      "total_items": 2,
+      "annotator_1_positive_rate": 0.5,
+      "annotator_2_positive_rate": 0.5
+    },
+    "contentIntent": {
+      "matrix": {
+        "positive_positive": 1,
+        "positive_negative": 1,
+        "negative_positive": 0,
+        "negative_negative": 0
+      },
+      "total_items": 2,
+      "annotator_1_positive_rate": 1.0,
+      "annotator_2_positive_rate": 0.5
+    }
+  },
+  "interpretation": {
+    "level": "Substantial",
+    "description": "Substantial agreement",
+    "reliability": "Very good reliability"
+  }
+}

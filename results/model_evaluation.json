@@ -1,0 +1,54 @@
+{
+  "n_annotators": 2,
+  "n_posts": 2,
+  "category_results": {
+    "theme": {
+      "correct": 2,
+      "incorrect": 0,
+      "uncertain": 0,
+      "total_evaluated": 2,
+      "accuracy": 1.0,
+      "error_rate": 0.0
+    },
+    "objects": {
+      "correct": 1,
+      "incorrect": 1,
+      "uncertain": 0,
+      "total_evaluated": 2,
+      "accuracy": 0.5,
+      "error_rate": 0.5
+    },
+    "sentiment": {
+      "correct": 1,
+      "incorrect": 0,
+      "uncertain": 1,
+      "total_evaluated": 1,
+      "accuracy": 1.0,
+      "error_rate": 0.0
+    },
+    "contentQuality": {
+      "correct": 1,
+      "incorrect": 1,
+      "uncertain": 0,
+      "total_evaluated": 2,
+      "accuracy": 0.5,
+      "error_rate": 0.5
+    },
+    "contentIntent": {
+      "correct": 1,
+      "incorrect": 0,
+      "uncertain": 1,
+      "total_evaluated": 1,
+      "accuracy": 1.0,
+      "error_rate": 0.0
+    }
+  },
+  "overall_metrics": {
+    "total_correct": 6,
+    "total_incorrect": 2,
+    "total_uncertain": 2,
+    "total_evaluated": 8,
+    "overall_accuracy": 0.75,
+    "overall_error_rate": 0.25
+  }
+}

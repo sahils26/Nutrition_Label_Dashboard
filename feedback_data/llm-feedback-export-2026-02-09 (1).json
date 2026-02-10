@@ -1,0 +1,70 @@
+{
+  "exportedAt": "2026-02-09T18:32:52.390Z",
+  "totalPostsWithFeedback": 2,
+  "posts": [
+    {
+      "postId": "DUiFv1vEcUu",
+      "username": "error69",
+      "caption": "When cinema power 🤝 political power collide… history gets a snapshot 📸🔥INFO ℹ️Thalapathy Vijay attended a wedding ceremony at a family function of Y. S. Jagan Mohan Reddy — and the moment instantly stole the spotlight 👀✨EMOTION ❤️‍🔥Different fields. Massive influence. Millions of followers.Seeing two icons sharing one stage hits different 💥Respect 🤝 power 🤝 unity — this frame says it all 👑🦁 Cinema Lion🦁 Political Lion📍 One unforgettable momentCTA 🚨👉 Comment your reaction 💬👉 Share if this moment gave you goosebumps 🔄👉 Follow for such viral updates ⚡#ThalapathyVijay #YSJagan #TwoLions #PowerMeeting #CinemaMeetsPolitics",
+      "llm": {
+        "llmTheme": "event",
+        "llmObjects": [
+          "people"
+        ],
+        "llmSentiment": "positive",
+        "llmContentQuality": "high",
+        "llmContentIntent": "entertainment",
+        "llmImageDescription": "\nThe image features a group of five individuals, likely at a formal event given their attire. From left to right, the first person is wearing a light beige suit with a white shirt, the second person is dressed in a white tuxedo with a black bow tie, the third person is in a white dress with long black hair, the fourth person is wearing a white kurta with light-colored pants, and the fifth person is in a dark suit with a white shirt and a black bow tie. They are standing in front of a floral backdrop with white and pink flowers, suggesting a celebratory event. The individuals appear to be posing for a photograph, with some standing on a stage. The text at the top of the image reads, \"Thalapathy Vijay attended a wedding ceremony at Y.S. Jagan's family function.\" The bottom text humorously states, \"Two lions on one stage 🔥,\" implying a significant event where figures of influence from different domains (cinema and politics) are present together. The overall context suggests a high-profile social gathering that highlights a convergence of entertainment and political figures."
+      },
+      "feedback": {
+        "overall": "positive",
+        "theme": "positive",
+        "objects": "positive",
+        "sentiment": "positive",
+        "contentQuality": "negative",
+        "contentIntent": "negative",
+        "imageDescription": null
+      },
+      "metadata": {
+        "timestamp": 1770655844050,
+        "like_count": 0,
+        "comment_count": 0,
+        "location": null,
+        "mediaType": "Photo",
+        "sessionId": "session_1770655799496_895185829"
+      }
+    },
+    {
+      "postId": "DUdPQyJD0q4",
+      "username": "kabooootarrrrrr",
+      "caption": "Old days🤌🏻",
+      "llm": {
+        "llmTheme": "nostalgia",
+        "llmObjects": [
+          "bicycle"
+        ],
+        "llmSentiment": "positive",
+        "llmContentQuality": "high",
+        "llmContentIntent": "entertainment",
+        "llmImageDescription": "\nThe image appears to be a digital cartoon drawing depicting a group of boys on a street, engaging in a playful interaction. The setting is a suburban street with a simple, somewhat flat design, featuring a few trees and two houses in the background. The sky is a light, even tone, suggesting an overcast or unremarkable day. \n\nIn the scene, several boys are actively participating in a conversation or a playful exchange. One boy on a bicycle is talking to a group of four other boys, who are sitting on the ground. The boy on the bicycle is wearing a dark jacket and jeans, while the boys on the ground are dressed in various casual outfits, including a cap and jeans, a green shirt with a hoodie, and a red shirt with a grey cap.\n\nSpeech bubbles are present, containing text in Hindi. The text in the speech bubbles reads: \"तेरी माँ का लंड क्या\" (Your mother's husband is what?) and \"तेरी माँ की चूहा\" (Your mother's mouse). The tone of the conversation suggests a playful teasing or confusion, possibly about a misunderstanding or a jest about a mother's family.\n\nThe caption \"Old days🤌🏻\" suggests a nostalgic theme, likely evoking memories of simpler times or a more innocent past. The heart emoji next to the caption further emphasizes the affectionate sentiment towards the past. The overall context of the post, combined with the image, implies a humorous take on the simplicity of life before the internet, when social interactions were more direct and less mediated by digital platforms."
+      },
+      "feedback": {
+        "overall": "positive",
+        "theme": "positive",
+        "objects": "negative",
+        "sentiment": "positive",
+        "contentQuality": "positive",
+        "contentIntent": "positive",
+        "imageDescription": null
+      },
+      "metadata": {
+        "timestamp": 1770656016816,
+        "like_count": 5189,
+        "comment_count": 35,
+        "location": null,
+        "mediaType": "Photo",
+        "sessionId": "session_1770655799496_895185829"
+      }
+    }
+  ]
+}

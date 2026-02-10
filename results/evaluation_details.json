@@ -1,0 +1,112 @@
+[
+  {
+    "category": "theme",
+    "postId": "DUiFv1vEcUu",
+    "consensus": "correct",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "theme",
+    "postId": "DUdPQyJD0q4",
+    "consensus": "correct",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "objects",
+    "postId": "DUiFv1vEcUu",
+    "consensus": "correct",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "objects",
+    "postId": "DUdPQyJD0q4",
+    "consensus": "incorrect",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "sentiment",
+    "postId": "DUiFv1vEcUu",
+    "consensus": "uncertain",
+    "confidence": 0.5,
+    "n_votes": 2,
+    "votes": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "sentiment",
+    "postId": "DUdPQyJD0q4",
+    "consensus": "correct",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "contentQuality",
+    "postId": "DUiFv1vEcUu",
+    "consensus": "incorrect",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "contentQuality",
+    "postId": "DUdPQyJD0q4",
+    "consensus": "correct",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "contentIntent",
+    "postId": "DUiFv1vEcUu",
+    "consensus": "uncertain",
+    "confidence": 0.5,
+    "n_votes": 2,
+    "votes": [
+      1,
+      0
+    ]
+  },
+  {
+    "category": "contentIntent",
+    "postId": "DUdPQyJD0q4",
+    "consensus": "correct",
+    "confidence": 1.0,
+    "n_votes": 2,
+    "votes": [
+      1,
+      1
+    ]
+  }
+]

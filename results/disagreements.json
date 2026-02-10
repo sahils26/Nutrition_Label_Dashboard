@@ -1,0 +1,18 @@
+[
+  {
+    "postId": "DUiFv1vEcUu",
+    "category": "sentiment",
+    "annotations": {
+      "Annotator_1": "negative",
+      "Annotator_2": "positive"
+    }
+  },
+  {
+    "postId": "DUiFv1vEcUu",
+    "category": "contentIntent",
+    "annotations": {
+      "Annotator_1": "positive",
+      "Annotator_2": "negative"
+    }
+  }
+]
