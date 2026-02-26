@@ -27,11 +27,11 @@ st.set_page_config(
 # Custom CSS for modern, dark mode look
 st.markdown("""
 <style>
-    /* Import modern font */
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+    /* Import modern premium font */
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
     
     * {
-        font-family: 'Inter', sans-serif;
+        font-family: 'Plus Jakarta Sans', sans-serif;
     }
     
     /* Global background and base text */
@@ -226,7 +226,7 @@ def create_score_gauge(score_value, title, target=0.75):
         margin=dict(l=15, r=15, t=30, b=10),
         paper_bgcolor='rgba(0,0,0,0)',
         plot_bgcolor='rgba(0,0,0,0)',
-        font={'family': 'Inter, sans-serif', 'color': '#ffffff'}
+        font={'family': 'Plus Jakarta Sans, sans-serif', 'color': '#ffffff'}
     )
     return fig
 
@@ -247,7 +247,7 @@ def create_confusion_matrix_heatmap(cm_data, category):
         colorscale=[[0, '#1e293b'], [1, '#6366f1']],
         text=text,
         texttemplate='%{text}',
-        textfont={"size": 16, "color": "white", "family": "Inter, sans-serif"},
+        textfont={"size": 16, "color": "white", "family": "Plus Jakarta Sans, sans-serif"},
         hoverongaps=False,
         showscale=False
     ))
@@ -255,7 +255,7 @@ def create_confusion_matrix_heatmap(cm_data, category):
     fig.update_layout(
         title={
             'text': f'{category.upper()} - Matrix',
-            'font': {'color': '#ffffff', 'size': 13, 'family': 'Inter, sans-serif'}
+            'font': {'color': '#ffffff', 'size': 13, 'family': 'Plus Jakarta Sans, sans-serif'}
         },
         xaxis=dict(
             tickfont={'color': '#ffffff', 'size': 12},
