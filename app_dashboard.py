@@ -212,8 +212,8 @@ def create_score_gauge(score_value, title, target=0.75):
         mode="gauge+number",
         value=score_value * 100 if score_value else 0,
         domain={'x': [0, 1], 'y': [0, 1]},
-        title={'text': title, 'font': {'size': 14, 'color': '#ffffff', 'weight': 'bold'}},
-        number={'suffix': "%", 'font': {'size': 36, 'color': '#ffffff', 'weight': 900}},
+        title={'text': title, 'font': {'size': 14, 'color': '#ffffff'}},
+        number={'suffix': "%", 'font': {'size': 36, 'color': '#ffffff'}},
         gauge={
             'axis': {'range': [0, 100], 'tickwidth': 1, 'tickcolor': "#334155"},
             'bar': {'color': "#6366f1", 'thickness': 0.8},
@@ -267,14 +267,14 @@ def create_confusion_matrix_heatmap(cm_data, category):
     fig.update_layout(
         title={
             'text': f'{category.upper()} - Matrix',
-            'font': {'color': '#ffffff', 'size': 13, 'weight': 'bold', 'family': 'Inter, sans-serif'}
+            'font': {'color': '#ffffff', 'size': 13, 'family': 'Inter, sans-serif'}
         },
         xaxis=dict(
-            tickfont={'color': '#ffffff', 'size': 12, 'weight': 'bold'},
+            tickfont={'color': '#ffffff', 'size': 12},
             side='bottom'
         ),
         yaxis=dict(
-            tickfont={'color': '#ffffff', 'size': 12, 'weight': 'bold'},
+            tickfont={'color': '#ffffff', 'size': 12},
             autorange='reversed'
         ),
         height=240,
@@ -305,7 +305,7 @@ def create_category_comparison(category_scores, metric_name):
     fig.update_layout(
         title={
             'text': f'{metric_name} by Category',
-            'font': {'color': '#ffffff', 'size': 14, 'weight': 'bold'}
+            'font': {'color': '#ffffff', 'size': 14}
         },
         xaxis_title=None,
         yaxis_title=None,
@@ -314,9 +314,9 @@ def create_category_comparison(category_scores, metric_name):
         margin=dict(l=10, r=10, t=40, b=20),
         paper_bgcolor='rgba(0,0,0,0)',
         plot_bgcolor='rgba(0,0,0,0)',
-        font={'color': '#ffffff', 'size': 11, 'weight': 'bold'},
-        xaxis={'gridcolor': 'rgba(255,255,255,0.2)', 'tickfont': {'size': 11, 'color': '#ffffff', 'weight': 'bold'}},
-        yaxis={'gridcolor': 'rgba(255,255,255,0.2)', 'ticksuffix': '%', 'tickfont': {'color': '#ffffff', 'weight': 'bold'}},
+        font={'color': '#ffffff', 'size': 11},
+        xaxis={'gridcolor': 'rgba(255,255,255,0.2)', 'tickfont': {'size': 11, 'color': '#ffffff'}},
+        yaxis={'gridcolor': 'rgba(255,255,255,0.2)', 'ticksuffix': '%', 'tickfont': {'color': '#ffffff'}},
         coloraxis_showscale=False,
         showlegend=False
     )
