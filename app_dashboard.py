@@ -133,29 +133,17 @@ st.markdown("""
         font-weight: 600 !important;
     }
     
-    /* File uploader visibility - DARK TEXT for better contrast on light dropzone */
-    [data-testid="stFileUploader"] [data-testid="stMarkdownContainer"] p {
-        color: #1e293b !important; /* Dark slate */
-        font-weight: 600 !important;
-    }
-    
-    [data-testid="stFileUploader"] button {
-        color: #1e293b !important;
-        border-color: #1e293b !important;
-    }
-
-    /* Small text like "Limit 200MB per file" */
-    [data-testid="stFileUploader"] small {
-        color: #475569 !important;
+    /* File uploader visibility - Reverted to white text on subtler background */
+    [data-testid="stFileUploader"] * {
+        color: #ffffff !important;
     }
     
     [data-testid="stFileUploader"] section {
-        background: rgba(255, 255, 255, 0.9) !important; /* Brighter background */
-        border: 2px dashed #6366f1 !important;
-        border-radius: 8px !important;
+        background: rgba(255, 255, 255, 0.05) !important;
+        border: 1px dashed rgba(255, 255, 255, 0.3) !important;
     }
     
-    /* Uploaded file list should be white for readability on dark sidebar */
+    /* Uploaded file list */
     [data-testid="stUploadedFile"] * {
         color: #ffffff !important;
     }
